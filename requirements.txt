@@ -1,5 +1,7 @@
-streamlit
 
+streamlit
+streamlit-folium
+folium
 requests
 
 
@@ -12,10 +14,6 @@ requests
 
 
 
-
-
-
-streamlit-geolocation
 
 
 
