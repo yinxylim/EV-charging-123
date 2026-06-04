@@ -13,6 +13,7 @@ streamlit
 
 
 
+streamlit-geolocation
 
 
 
@@ -60,4 +61,17 @@ streamlit
 
 
 
-streamlit-js-eval
+
+
+
+
+
+
+
+
+
+
+
+
+
+
